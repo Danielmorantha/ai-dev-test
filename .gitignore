@@ -1,0 +1,12 @@
+.env
+OCR/app/logs/*
+OCR/app/__pycache__/*
+OCR/app/middleware/__pycache__/*
+OCR/app/logic/bert-model-danielmrnthh-uncased.h5
+OCR/app/logic/dog_and_cat_InceptionV3.h5
+OCR/app/services/__pycache__/*
+
+*.safetensors
+*.pt
+*.bin
+*.h5
